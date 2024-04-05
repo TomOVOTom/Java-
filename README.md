@@ -1,4 +1,4 @@
-# Java-
+# java_student_management_system
 Java学生管理系统作为教育信息化工具，具备以下核心功能：
 
 学生信息管理
